@@ -69,7 +69,8 @@ a{
 	background-color: var(--white);
 	transition: all 0.4s ease;
 	box-shadow: rgba(33%, 62%, 95%, 0.1) 0px 19px 20px 3px;
-}.main .box:hover{
+}
+.main .box:hover{
 	transform: scale(1.03);
 }
 .main .box-cyan{
